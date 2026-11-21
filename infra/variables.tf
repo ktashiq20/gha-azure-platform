@@ -10,7 +10,7 @@ variable "project" {
 
 variable "app_service_sku" {
   type    = string
-  default = "F1"
+  default = "B1"
 }
 
 variable "sql_admin_password" {
